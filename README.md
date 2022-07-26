@@ -1,4 +1,4 @@
-# [Arcade: Universal Cosmic](https://www.arcade-museum.com/game_detail.php?game_id=7398) games (Z80-based) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+# [Arcade: Universal Cosmic](https://www.arcade-museum.com/game_detail.php?game_id=7398) games (Z80-based) for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
 
 By [Mike Coates](https://github.com/macrofpga)  
 Current Version - 0.9 - 08/07/2021
